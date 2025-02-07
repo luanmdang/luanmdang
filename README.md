@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building simple LLM models to gain more experience in their development.<br>🌱 I am a currently sophomore studying computer science at Stanford.<br>🤝 I’m looking for interning opportunities!<br>⚡ I also have a passion in music and audio dsp related projects, and looking to blend the two fields together!<br><br>
+🔭 I’m currently building simple LLM models to gain more experience in their development.<br>🌱 Currently a Sophomore studying artificial intelligence at Stanford.<br>🤝 I’m looking for interning opportunities!<br>⚡ I also have a passion in music and audio dsp related projects, and looking to blend the two fields together!<br><br>
 
 
 ## 🌐 Socials:
