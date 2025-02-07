@@ -2,7 +2,7 @@
 🔭 I’m currently building simple LLM models to gain more experience in their development.<br>🌱 Currently a Sophomore studying artificial intelligence at Stanford.<br>🤝 Looking for interning opportunities!<br>⚡ I also have a passion in music and audio dsp related projects, and looking to blend the two fields together!<br><br>
 
 
-## 🌐 Socials:
+## 🌐 Connect with me!:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-dang/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luandang2023@gmail.com) 
 
 # 💻 Tech Stack:
