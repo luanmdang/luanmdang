@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**luanmdang/luanmdang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 💫 About Me:
 🔭 I’m currently building simple LLM models to gain more experience in their development.
 🌱 I am a currently sophomore studying computer science at Stanford.
@@ -31,5 +24,3 @@ C C++ CSS3 HTML5 Lua JavaScript TypeScript Python R Vercel Netlify Anaconda Boot
 🔝 Top Contributed Repo
 
 
-
--->
