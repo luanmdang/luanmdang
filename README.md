@@ -18,8 +18,8 @@ Previously at Strategic Risk Solutions, I built a RAG chatbot that took 32 secon
 
 ---
 
-Check out my blog at [Site](https://luandang.net/)
+Check out my blog : [luandang.net](https://luandang.net/)
 
----
+--- Connect with me!
 
 [LinkedIn](https://www.linkedin.com/in/luan-dang/) ・ [Email](mailto:luandang2023@gmail.com)
