@@ -12,7 +12,7 @@ I built [Swiftly](https://github.com/luanmdang/swiftly), an open-source macOS di
 
 At [Neurotrack](https://neurotrack.com), I'm building a platform that processes 88,000+ clinical records, using GPT-4 to extract structured medical data from messy inputs. The care-pathway engine is modeled on UCSF's Care Ecosystem protocol.
 
-Previously at Strategic Risk Solutions, I inherited a RAG chatbot that took 32 seconds per query. Got it down to 2-3 seconds through caching and query optimization, then built an ingestion pipeline on Azure that improved retrieval accuracy by 35%.
+Previously at Strategic Risk Solutions, I built a RAG chatbot that took 32 seconds per query during the first half of my internship. Got it down to 2-3 seconds through caching and query optimization in the second half, then built an ingestion pipeline on Azure that improved retrieval accuracy by 35%!
 
 ---
 
