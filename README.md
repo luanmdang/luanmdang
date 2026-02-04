@@ -1,6 +1,8 @@
 # Luan Dang
 
-I'm a CS student at Stanford. I build tools I actually use, usually because the existing options aren't free.
+Hello friends!
+
+I like to build tools I actually use, usually because the existing options aren't free.
 
 Most of my work sits at the intersection of systems and AI. I like understanding how things work under the hood, and I like when software makes someone's day a little easier (it does for me!).
 
@@ -16,10 +18,8 @@ Previously at Strategic Risk Solutions, I built a RAG chatbot that took 32 secon
 
 ---
 
-**What I'm exploring:**
-
-Audio DSP and real-time synthesis. I'm working on a granular sampler VST plugin. It's still early, but it's the kind of low-level work I find satisfying. I am a music producer, so I hope to carve out a unique for my presence in the music community with this plugin!
+Check out my blog at [Site](https://luandang.net/)
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/luan-dang/) ・ [Email](mailto:luandang2023@gmail.com) ・ [Site](https://luandang.net/)
+[LinkedIn](https://www.linkedin.com/in/luan-dang/) ・ [Email](mailto:luandang2023@gmail.com)
