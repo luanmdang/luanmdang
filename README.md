@@ -2,9 +2,7 @@
 
 Hello friends!
 
-I like to build tools I actually use, usually because the existing options aren't free.
-
-Most of my work sits at the intersection of systems and AI. I like understanding how things work under the hood, and I like when software makes someone's day a little easier (it does for me!).
+I like to build things I find useful myself.
 
 ---
 
