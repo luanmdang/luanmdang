@@ -2,8 +2,6 @@
 
 Hello friends!
 
-I like to build things I find useful myself.
-
 ---
 
 **Lately:**
